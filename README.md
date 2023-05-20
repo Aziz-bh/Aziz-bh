@@ -19,5 +19,5 @@ Feel free to explore my repositories, and let's connect to collaborate on exciti
 
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aziz-bh)](https://github.com/anuraghazra/github-readme-stats)
 
