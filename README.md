@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Med Aziz benhmida
 #### Web Developer and Designer
-![Web Developer and Designer](https://media.licdn.com/dms/image/D4D16AQHIca13DyuTuQ/profile-displaybackgroundimage-shrink_350_1400/0/1684519208797?e=1689811200&v=beta&t=RcRPyu_SGcVHyRnWWqCxfivUBHWuWLOoqSrtVbLNlDI)
 
 ### Advanced Web Technologies:
 I specialize in advanced web technologies like WebRTC for real-time communication.
